@@ -1,0 +1,7 @@
+Content\Content\Fonts\menuFont.xnb
+Content\Content\Sprites\background.xnb
+Content\Content\Sprites\bot.xnb
+Content\Content\Sprites\bullet.xnb
+Content\Content\Sprites\cursor.xnb
+Content\Content\Sprites\enemy.xnb
+Content\Content\Sprites\top.xnb

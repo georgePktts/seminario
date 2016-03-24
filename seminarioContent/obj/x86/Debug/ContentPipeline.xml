@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Content\Fonts\menuFont.spritefont</Source>
+      <Name>Content\Fonts\menuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Fonts\menuFont.xnb</Output>
+      <Time>2016-03-23T16:40:15+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Sprites\background.PNG</Source>
+      <Name>Content\Sprites\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Sprites\background.xnb</Output>
+      <Time>2016-03-23T17:26:53+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Sprites\bot.png</Source>
+      <Name>Content\Sprites\bot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Sprites\bot.xnb</Output>
+      <Time>2016-03-23T17:26:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Sprites\bullet.png</Source>
+      <Name>Content\Sprites\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Sprites\bullet.xnb</Output>
+      <Time>2016-03-23T17:26:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Sprites\cursor.png</Source>
+      <Name>Content\Sprites\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Sprites\cursor.xnb</Output>
+      <Time>2016-03-23T17:26:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Sprites\enemy.png</Source>
+      <Name>Content\Sprites\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Sprites\enemy.xnb</Output>
+      <Time>2016-03-23T17:26:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Content\Sprites\top.png</Source>
+      <Name>Content\Sprites\top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Sprites\top.xnb</Output>
+      <Time>2016-03-23T17:26:54+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminarioContent\</RootDirectory>
+      <LoggerRootDirectory>\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\</LoggerRootDirectory>
+      <IntermediateDirectory>\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminarioContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-02-17T16:55:01.7236+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

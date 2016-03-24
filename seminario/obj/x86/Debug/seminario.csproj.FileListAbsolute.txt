@@ -1,0 +1,17 @@
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\seminario.exe
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\seminario.pdb
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\obj\x86\Debug\seminario.exe
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\obj\x86\Debug\seminario.pdb
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Fonts\menuFont.xnb
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Sprites\background.xnb
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Sprites\bot.xnb
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Sprites\bullet.xnb
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Sprites\cursor.xnb
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Sprites\enemy.xnb
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\Content\Content\Sprites\top.xnb
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\seminario.exe.manifest
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\bin\x86\Debug\seminario.application
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\obj\x86\Debug\seminario.exe.manifest
+\\psf\Dropbox\icsd\Σεμινάριο XNA\seminario_6\seminario\seminario\seminario\obj\x86\Debug\seminario.application
